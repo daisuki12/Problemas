@@ -1,0 +1,9 @@
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\bin\Debug\Problemas.exe.config
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\bin\Debug\Problemas.exe
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\bin\Debug\Problemas.pdb
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\obj\Debug\Problemas.csprojResolveAssemblyReference.cache
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\obj\Debug\Problemas.Form1.resources
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\obj\Debug\Problemas.Properties.Resources.resources
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\obj\Debug\Problemas.csproj.GenerateResource.Cache
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\obj\Debug\Problemas.exe
+C:\Users\ycaceres\Desktop\Prueba COMER\Problemas\Problemas\obj\Debug\Problemas.pdb
